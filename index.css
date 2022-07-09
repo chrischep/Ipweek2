@@ -33,6 +33,21 @@ body{
           color: black;
           text-decoration: none;
         }
+.loginlink{
+           margin-left: 13rem;
+           margin-top: 1rem;
+        }
+.loginlink button{
+    background-color: #080808f9;
+    width: 8rem;
+    height: 3rem;
+    border-radius: none;
+    border-width: 0px;
+}
+.loginlink button a{
+    color: white;
+    text-decoration: none;
+}
 .nav-button{
             margin-left: 18rem;
             margin-top: 1rem;
