@@ -214,3 +214,41 @@ margin-left: 35%;
     margin-top: 4rem;
     background-color: rgb(14, 235, 66);
   }
+  .esteemedheader{
+    border: solid;
+    justify-content: center;
+    margin-left: 30%;
+    padding-left: 13%;
+    font-weight: 900;
+  }
+  .comments{
+    display: flex;
+    margin-top: 4rem;
+    margin-left: 0.5%;
+    background-color: rgb(235, 243, 241);
+    width: 100%;
+    justify-content: space-between;
+    padding: 0.5%;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  }
+  .comm1 {
+    width: 40%;
+    height: 40%;
+    border: solid;
+    margin: 3%;
+    box-shadow: 0px 8px 15px rgba(40, 38, 38, 0.1);
+  }
+  .comm2 {
+    width: 40%;
+    height: 70%;
+    margin: 3%;
+    border: solid;
+    box-shadow: 0px 8px 15px rgba(40, 38, 38, 0.1);
+  }
+  .comm3 {
+    width: 40%;
+    height: 40%;
+    border: solid;
+    margin: 3%;
+    box-shadow: 0px 8px 15px rgba(40, 38, 38, 0.1);
+  }
